@@ -1,0 +1,33 @@
+/* ---------------- MEDIUM AND LARGER ---------------- */
+@media (min-width: 768px) {
+    #landing-title {
+        padding-top: 17%;
+    }
+    
+    #landing-main {
+        font-size: 70px;
+        max-width: 800px;
+    }
+
+    #main {
+        padding-right: 28%;
+        padding-left: 28%;
+    }
+}
+
+
+/* ---------------- SMALL AND SMALLER ---------------- */
+@media (max-width: 767px) {
+    #landing-title {
+        padding-top: 45%;
+    }
+
+    #landing-main {
+        font-size: 50px;
+    }
+
+    #main {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+}
