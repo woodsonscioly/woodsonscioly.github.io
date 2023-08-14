@@ -61,12 +61,6 @@
     text-align: center;
 }
 
-.what-is-icon > span {
-    padding-top: 20px;
-    font-size: 30px;
-    width: 100%;
-}
-
 .why-bullet {
     margin-bottom: 10px;
 }
@@ -79,6 +73,7 @@
     background-color: lightgray;
     border-radius: 8px;
     max-width: 100%;
+    margin: auto;
 }
 
 .quote-box:hover {
